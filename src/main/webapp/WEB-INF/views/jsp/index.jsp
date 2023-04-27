@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to sridevi, coimbatore</h2>
-			<h3>Contact @ 9791881958</h3>
+			<h2>Welcome to divyabharathi, chennai</h2>
+			<h3>Contact @ 9444832239</h3>
 		</div>	
 	</div>
 
